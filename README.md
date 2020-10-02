@@ -12,4 +12,4 @@ chmod 711 install.sh
 #
 ./Falsify.sh
 #
-# Created by: Termux Hacking
+# Created by: Informatic in Termux
